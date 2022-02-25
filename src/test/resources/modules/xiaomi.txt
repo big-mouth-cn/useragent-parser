@@ -1,3 +1,5 @@
+小米手机型号汇总
+小米数字系列
 [X1] 小米 1 (mione_plus):
 MI-ONE PLUS: 小米 1 联通版
 MI-ONE C1: 小米 1 电信版
@@ -156,7 +158,7 @@ M2012K11I: 小米 11X Pro 印度版
 [L2] Xiaomi 12 Pro (zeus):
 2201122C: Xiaomi 12 Pro 全网通版
 2201122G: Xiaomi 12 Pro 国际版
-## 小米 Note 系列
+小米 Note 系列
 [X5] 小米 Note (virgo):
 2014616: 小米 Note 双网通版
 2014619: 小米 Note 全网通版
@@ -179,7 +181,7 @@ M1910F4G: 小米 Note 10 国际版
 M1910F4S: 小米 Note 10 Pro 国际版
 [F4L] 小米 Note 10 Lite (toco):
 M2002F4LG: 小米 Note 10 Lite 国际版
-## 小米 MIX 系列
+小米 MIX 系列
 [A8] 小米 MIX (lithium):
 2016080: 小米 MIX 全网通版
 [D5] 小米 MIX 2 (chiron):
@@ -200,7 +202,7 @@ M1810E5GG: 小米 MIX 3 5G
 M2011J18C: MIX FOLD 小米折叠屏手机
 [K8] Xiaomi MIX 4 (odin):
 2106118C: Xiaomi MIX 4 全网通版
-## 小米 Max 系列
+小米 Max 系列
 [B3] 小米 Max (hydrogen):
 2016001: 小米 Max 标准版 全网通版
 2016002: 小米 Max 标准版 国际版
@@ -214,7 +216,7 @@ MDI40: 小米 Max 2 印度版
 M1804E4A: 小米 Max 3 全网通版
 M1804E4T: 小米 Max 3 移动 4G+ 版
 M1804E4C: 小米 Max 3 联通电信定制版
-## 小米 CC & Civi 系列
+小米 CC & Civi 系列
 [F3B] 小米 CC9 (pyxis):
 M1904F3BC: 小米 CC9 全网通版
 [F3M] 小米 CC9 美图定制版 (vela):
@@ -225,11 +227,11 @@ M1906F9SC: 小米 CC9e 全网通版
 M1910F4E: 小米 CC9 Pro 全网通版
 [F9B] Xiaomi Civi (mona):
 2109119BC: Xiaomi Civi 全网通版
-## 小米 Play 系列
+小米 Play 系列
 [F9] 小米 Play (lotus):
 M1901F9E: 小米 Play 全网通版
 M1901F9T: 小米 Play 移动 4G+ 版
-## 小米 A 系列
+小米 A 系列
 [D2] 小米 A1 (tissot):
 MDG2: 小米 A1 国际版
 MDI2: 小米 A1 印度版
@@ -241,7 +243,7 @@ M1805D1SG: 小米 A2 Lite 国际版
 [F9S] 小米 A3 (laurel_sprout):
 M1906F9SH: 小米 A3 国际版
 M1906F9SI: 小米 A3 印度版
-## 小米平板
+小米平板
 [X6] 小米平板 (mocha):
 A0101: 小米平板
 [A3] 小米平板 2 (latte):
@@ -260,7 +262,7 @@ M1806D9PE: 小米平板 4 Plus LTE 版
 M2105K81AC: 小米平板 5 Pro Wi-Fi 版
 [K81] 小米平板 5 Pro (enuma):
 M2105K81C: 小米平板 5 Pro 5G 版
-## 红米 / Redmi 数字系列
+红米 / Redmi 数字系列
 [H2TD] 红米手机 (wt93007):
 2013022: 红米手机 移动版
 [H2W] 红米手机 (wt98007):
@@ -412,7 +414,7 @@ M2010J19SL: Redmi 9T 拉美版
 22011119TI: Redmi 10 Prime 2022 印度版
 [K19U] Redmi 10 2022 (eos):
 22011119UY: Redmi 10 2022 国际版 (NFC)
-## 红米 / Redmi Note 系列
+红米 / Redmi Note 系列
 [H3W] 红米 Note (lcsh92_wet_gb9):
 2014018: 红米 Note 联通 3G 标准版
 2013121: 红米 Note 联通 3G 增强版
@@ -580,14 +582,14 @@ M2104K10AC: Redmi Note 10 Pro 5G 全网通版
 [K16U] Redmi Note 11 Pro+ (pissarropro):
 21091116UC: Redmi Note 11 Pro+ 全网通版
 21091116UG: Redmi Note 11 Pro+ 5G 国际版
-## Redmi X 系列
+Redmi X 系列
 [J7A] Redmi 10X 5G (atom):
 M2004J7AC: Redmi 10X 5G 全网通版
 [J7B] Redmi 10X Pro 5G (bomb):
 M2004J7BC: Redmi 10X Pro 5G 全网通版
 [J15S] Redmi 10X 4G (merlin):
 M2003J15SC: Redmi 10X 4G 全网通版
-## Redmi K 系列
+Redmi K 系列
 [F10] Redmi K20 (davinci):
 M1903F10A: Redmi K20 全网通版
 M1903F10C: Redmi K20 运营商全网通版
@@ -624,7 +626,7 @@ M2012K11C: Redmi K40 Pro 全网通版 / Redmi K40 Pro+ 全网通版
 M2012K10C: Redmi K40 游戏增强版 全网通版
 [L10] Redmi K50 电竞版 (ingres):
 21121210C: Redmi K50 电竞版 全网通版
-## 其他红米 Redmi 手机
+其他红米 Redmi 手机
 [H3C] 红米 Pro (omega):
 2016020: 红米 Pro 标准版
 2016021: 红米 Pro 高配版 / 尊享版
@@ -640,7 +642,7 @@ M1810F6I: Redmi Y3 印度版
 [C3G] Redmi Go (tiare):
 M1903C3GG M1903C3GH: Redmi Go 国际版
 M1903C3GI: Redmi Go 印度版
-## POCO 手机
+POCO 手机
 [E10] POCO F1 (beryllium):
 M1805E10A: POCO F1
 [J11] POCO F2 Pro (lmi):
@@ -685,7 +687,7 @@ M2103K19PI: POCO M3 Pro 5G 印度版
 M2006C3MI: POCO C3 印度版
 [C3M] POCO C31 (angelicain):
 211033MI: POCO C31 印度版
-## 黑鲨手机
+黑鲨手机
 黑鲨游戏手机 (shark):
 SKR-A0: 黑鲨游戏手机 全网通版
 SKR-H0: 黑鲨游戏手机 国际版
@@ -714,7 +716,7 @@ SHARK KSR-A0: 黑鲨 4 Pro 全网通版
 SHARK PRS-A0: 黑鲨 4S 全网通版
 黑鲨 4S Pro (kaiser):
 SHARK KSR-A0: 黑鲨 4S Pro 全网通版
-## 其他系列
+其他系列
 小米手表 (baiji):
 XMWT01: 小米手表
 小米米家翻译机 (FYJ01QP):
