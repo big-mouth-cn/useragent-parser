@@ -46,7 +46,7 @@ public class DeviceNameParser {
         map.put(DeviceNameParser.class.getResource("/mi_tv.txt").getFile(), Pair.of("TV", "Xiaomi"));
         map.put(DeviceNameParser.class.getResource("/nobia.txt").getFile(), Pair.of("Phone", "Nubia"));
         map.put(DeviceNameParser.class.getResource("/smartisan.txt").getFile(), Pair.of("Phone", "Smartisan"));
-        String output = "/Users/zhaolihe/Desktop/output.txt";
+        String output = "/Users/huxiao/Desktop/output.txt";
 //        parser.execute("/Users/zhaolihe/Desktop/pad.txt", "/Users/zhaolihe/Desktop/output.txt");
         parser.execute(map, output);
     }
