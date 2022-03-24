@@ -49,11 +49,15 @@ RMX3151: realme 8i
 realme 8s 5G:
 RMX3381: realme 8s 5G
 realme 9i:
-RMX3491: realme 9i
-realme 9 Pro:
+RMX3491 RMX3493: realme 9i
+realme 9 5G:
+RMX3388: realme 9 5G
+realme 9 Pro 5G:
 RMX3471: realme 9 Pro 5G
-realme 9 Pro+:
-RMX3392: realme 9 Pro+ 5G
+realme 9 Pro+ 5G:
+RMX3392 RMX3393: realme 9 Pro+ 5G
+realme 9 5G Speed Edition:
+RMX3461: realme 9 5G Speed Edition
 X series
 realme X:
 RMX1901: realme X
@@ -108,13 +112,13 @@ RMX3061 RMX3063: realme C20
 realme C21:
 RMX3201 RMX3202 RMX3203: realme C21
 realme C21Y:
-RMX3261 RMX3262: realme C21Y
+RMX3261 RMX3262 RMX3263: realme C21Y
 realme C25:
 RMX3191 RMX3193: realme C25
 realme C25s:
 RMX3195 RMX3197: realme C25s
 realme C25Y:
-RMX3265: realme C25Y
+RMX3265 RMX3269: realme C25Y
 realme C35:
 RMX3511: realme C35
 U series
@@ -141,6 +145,8 @@ realme Narzo 30 Pro:
 RMX2117: realme Narzo 30 Pro 5G
 realme Narzo 30A:
 RMX3171: realme Narzo 30A
+realme Narzo 50:
+RMX3286: realme Narzo 50
 realme Narzo 50A:
 RMX3430: realme Narzo 50A
 realme Narzo 50i:
@@ -153,6 +159,10 @@ realme GT Master Edition:
 RMX3360 RMX3363: realme GT Master Edition
 realme GT NEO 2:
 RMX3370: realme GT NEO 2 5G
+realme GT 2:
+RMX3311 RMX3322: realme GT 2 5G
+realme GT 2 Pro:
+RMX3301: realme GT 2 Pro 5G
 Tablets
 realme Pad:
 RMP2102 RMP2103: realme Pad

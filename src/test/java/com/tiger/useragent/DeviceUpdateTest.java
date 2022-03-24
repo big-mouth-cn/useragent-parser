@@ -16,12 +16,16 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * 自动更新设备型号脚本。
+ * <p>自动更新设备型号脚本</p>
  *
- * 1、首先克隆 Git （https://gitee.com/mirrors_KHwang9883/MobileModels）到本地，并保持持续更新；
- * 2、修改 {@link #brands} 为克隆后项目的 /brands 目录；
- * 3、执行 {@link #main(String[])} 方法；
- * 4、将生成的文件 src/test/resources/{yyyyMMdd}_DeviceDictionary_Auto.txt 复制到 src/main/resources/DeviceDictionary_Auto.txt
+ * <p>使用说明：</p>
+ * <ul>
+ *     <li>首先克隆 Git （https://gitee.com/mirrors_KHwang9883/MobileModels）到本地，已克隆的更新到最新版本；</li>
+ *     <li>修改 {@link #brands} 为克隆后项目的 /brands 目录；</li>
+ *     <li>执行 {@link #main(String[])} 方法；</li>
+ *     <li>将生成的文件 src/test/resources/{yyyyMMdd}_DeviceDictionary_Auto.txt 复制到 src/main/resources/DeviceDictionary_Auto.txt；</li>
+ *     <li>更新版本号发布后供其他项目使用。</li>
+ * </ul>
  *
  * @author allen
  * @date 2022-02-25
@@ -42,8 +46,9 @@ public class DeviceUpdateTest {
 
     public enum FileNameMapping {
         _360("360shouji.md", "360"),
-        Apple("apple.md", "Apple"),
-        AppleEn("apple_en.md", "Apple"),
+        AppleAll("apple_all.md", "Apple"),
+        AppleAllEn("apple_all_en.md", "Apple"),
+        AppleCn("apple_cn.md", "Apple"),
         GoogleEn("google_en.md", "Google"),
         Honor("honor_cn.md", "Honor"),
         HonorEn("honor_global_en.md", "Honor"),

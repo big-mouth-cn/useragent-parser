@@ -44,6 +44,8 @@ Lenovo K320t: 联想 K320t
 Lenovo L79031: 拯救者电竞手机 Pro
 拯救者电竞手机 2 Pro (doom):
 Lenovo L70081: 拯救者电竞手机 2 Pro
+联想拯救者 Y90 电竞手机:
+Lenovo L71061: 联想拯救者 Y90 电竞手机
 联想乐檬 K12 (guam):
 XT2081-4: 联想乐檬 K12
 联想乐檬 K12 Pro (cebu):

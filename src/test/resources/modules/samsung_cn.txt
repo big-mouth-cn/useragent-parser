@@ -236,6 +236,8 @@ Galaxy A71 5G (a71x):
 SM-A7160: Galaxy A71 5G
 Galaxy A52 5G (a52xq):
 SM-A5260: Galaxy A52 5G
+Galaxy A53 5G (a53xq):
+SM-A5360: Galaxy A53 5G
 Galaxy F 系列
 Galaxy F52 5G (f52x):
 SM-E5260: Galaxy F52 5G
