@@ -596,6 +596,7 @@ M2104K10AC: Redmi Note 10 Pro 5G 全网通版
 2201116SC: Redmi Note 11E Pro 全网通版
 2201116SG: Redmi Note 11 Pro 5G 国际版
 2201116SR: Redmi Note 11 Pro 5G 日本版
+[K6S] Redmi Note 11 Pro+ 5G (peux):
 2201116SI: Redmi Note 11 Pro+ 5G 印度版
 [K16U] Redmi Note 11 Pro+ (pissarropro):
 21091116UC: Redmi Note 11 Pro+ 全网通版
@@ -697,6 +698,7 @@ M2102J20SI: POCO X3 Pro 印度版
 21061110AG: POCO X3 GT 国际版
 [K6P] POCO X4 Pro 5G (veux):
 2201116PG: POCO X4 Pro 5G 国际版
+[K6P] POCO X4 Pro 5G (peux):
 2201116PI: POCO X4 Pro 5G 印度版
 [J19P] POCO M2 (shiva):
 M2004J19PI: POCO M2 印度版
@@ -751,10 +753,17 @@ SHARK PRS-A0: 黑鲨 4 全网通版
 SHARK PRS-H0: 黑鲨 4 国际版
 黑鲨 4 Pro (kaiser):
 SHARK KSR-A0: 黑鲨 4 Pro 全网通版
+SHARK KSR-H0: 黑鲨 4 Pro 国际版
 黑鲨 4S (penrose):
 SHARK PRS-A0: 黑鲨 4S 全网通版
 黑鲨 4S Pro (kaiser):
 SHARK KSR-A0: 黑鲨 4S Pro 全网通版
+黑鲨 5 (patriot):
+SHARK PAR-A0: 黑鲨 5 全网通版
+黑鲨 5 RS (kaiser):
+SHARK KSR-A0: 黑鲨 5 RS 全网通版
+黑鲨 5 Pro (katyusha):
+SHARK KTUS-A0: 黑鲨 5 Pro 全网通版
 其他系列
 小米手表 (baiji):
 XMWT01: 小米手表

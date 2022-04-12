@@ -4,7 +4,7 @@
 
     <groupId>com.tiger.useragent</groupId>
     <artifactId>useragent-parser</artifactId>
-    <version>1.0.9.20220324</version>
+    <version>1.0.9.20220412</version>
     <packaging>jar</packaging>
 
     <name>useragent-parser</name>

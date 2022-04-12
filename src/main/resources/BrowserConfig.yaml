@@ -28,6 +28,14 @@
 - regex: '(micromessenger)'
   family_replacement: 'Wechat'
 
+##########
+# Alipay
+##########
+- regex: '(alipayclient)/(\d+)\.(\d+)\.(\d+)(\.(\d+))?'
+  family_replacement: 'Alipay'
+- regex: '(alipayclient)'
+  family_replacement: 'Alipay'
+
 #########
 # 风行
 ########
