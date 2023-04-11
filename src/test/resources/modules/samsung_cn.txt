@@ -105,6 +105,12 @@ Galaxy S22+ (g0q):
 SM-S9060: Galaxy S22+ 5G
 Galaxy S22 Ultra (b0q):
 SM-S9080: Galaxy S22 Ultra 5G
+Galaxy S23 (dm1q):
+SM-S9110: Galaxy S23 5G
+Galaxy S23+ (dm2q):
+SM-S9160: Galaxy S23+ 5G
+Galaxy S23 Ultra (dm3q):
+SM-S9180: Galaxy S23 Ultra 5G
 Galaxy Note 系列
 Galaxy Note:
 GT-I9220: Galaxy Note 公开版
@@ -166,12 +172,16 @@ Galaxy Z Fold2 (f2q):
 SM-F9160: Galaxy Z Fold2 5G
 Galaxy Z Fold3 (q2q):
 SM-F9260: Galaxy Z Fold3 5G
+Galaxy Z Fold4 (q4q):
+SM-F9360: Galaxy Z Fold4 5G
 Galaxy Z Flip (bloomq):
 SM-F7000: Galaxy Z Flip
 Galaxy Z Flip 5G (bloomxq):
 SM-F7070: Galaxy Z Flip 5G
 Galaxy Z Flip3 (b2q):
 SM-F7110: Galaxy Z Flip3 5G
+Galaxy Z Flip4 (b4q):
+SM-F7210: Galaxy Z Flip4 5G
 Galaxy A 系列
 Galaxy A3 (a3ltechn):
 SM-A3000: Galaxy A3 公开版
@@ -236,8 +246,10 @@ Galaxy A71 5G (a71x):
 SM-A7160: Galaxy A71 5G
 Galaxy A52 5G (a52xq):
 SM-A5260: Galaxy A52 5G
-Galaxy A53 5G (a53xq):
+Galaxy A53 5G (a53x):
 SM-A5360: Galaxy A53 5G
+Galaxy A54 5G (a54x):
+SM-A5460: Galaxy A54 5G
 Galaxy F 系列
 Galaxy F52 5G (f52x):
 SM-E5260: Galaxy F52 5G
@@ -321,12 +333,16 @@ SM-W2017: 三星 W2017
 SM-W2018: 三星 W2018
 三星 W2019 (lykanlte):
 SM-W2019: 三星 W2019
-三星 W20 5G (zodiac):
+三星 W20 (zodiac):
 SM-W2020: 三星 W20 5G
-三星 W21 5G (victory):
+三星 W21 (victory):
 SM-W2021: 三星 W21 5G
-三星 W22 5G (v2q):
+三星 W22 (v2q):
 SM-W2022: 三星 W22 5G
+三星 W23 (v4q):
+SM-W9023: 三星 W23 5G
+三星 W23 Flip (e4q):
+SM-W7023: 三星 W23 Flip 5G
 三星其他手机系列
 Galaxy Folder (eliteltechn):
 SM-G1600: Galaxy Folder
@@ -386,7 +402,9 @@ SM-T870: Galaxy Tab S7 WLAN
 Galaxy Tab S7+ (gts7xlwifi):
 SM-T970: Galaxy Tab S7+ WLAN
 Galaxy Tab S7 FE (gts7xllitewifi):
-SM-T730: Galaxy Tab S7 FE WLAN
+SM-T730: Galaxy Tab S7 FE WLAN (骁龙 750G)
+Galaxy Tab S7 FE (gts7fewifi):
+SM-T733: Galaxy Tab S7 FE WLAN (骁龙 778G)
 Galaxy Tab S7 FE (gts7xllite):
 SM-T735C: Galaxy Tab S7 FE LTE
 Galaxy Tab S8 (gts8wifi):

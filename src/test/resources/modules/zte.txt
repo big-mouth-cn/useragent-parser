@@ -21,8 +21,8 @@ ZTE A2021: 中兴天机 Axon 11 5G 公开版
 ZTE A2021H: 中兴天机 Axon 11 5G 行业版
 中兴天机 Axon 20 5G:
 ZTE A2121: 中兴天机 Axon 20 5G
-中兴 Axon 30:
-ZTE A2322: 中兴 Axon 30 5G
+中兴 Axon 30 / 中兴 Axon 30S:
+ZTE A2322: 中兴 Axon 30 5G / 中兴 Axon 30S 5G
 中兴 Axon 30 Pro:
 ZTE A2022: 中兴 Axon 30 Pro 5G
 中兴 Axon 30 Ultra:
@@ -33,6 +33,18 @@ ZTE A2122H: 中兴天机 A31 5G
 ZTE A2022H: 中兴天机 A31 Pro 5G
 中兴天机 A31 Ultra:
 ZTE A2022P: 中兴天机 A31 Ultra 5G
+中兴 Axon 40 Pro:
+ZTE A2023: 中兴 Axon 40 Pro
+中兴 Axon 40 Ultra:
+ZTE A2023P: 中兴 Axon 40 Ultra
+中兴天机 A41:
+ZTE A2023BH: 中兴天机 A41
+中兴天机 A41 Pro:
+ZTE A2023: 中兴天机 A41 Pro
+中兴天机 A41 Ultra:
+ZTE A2023H: 中兴天机 A41 Ultra
+中兴天机 A41 Ultra 至尊版:
+ZTE A2023P: 中兴天机 A41 Ultra 至尊版
 中兴 S30:
 ZTE 9030N: 中兴 S30 5G
 中兴 S30 Pro:
@@ -83,3 +95,21 @@ ZTE A0620: 中兴远航 5 plus
 ZTE 7530N: 中兴远航 10
 中兴远航 20 Pro:
 ZTE 9040N: 中兴远航 20 Pro
+中兴远航 30:
+ZTE 7532N: 中兴远航 30
+中兴远航 30S:
+ZTE 7531N: 中兴远航 30S
+中兴远航 30 畅行版:
+ZTE 7534N: 中兴远航 30 畅行版
+中兴远航 30 Pro:
+ZTE 8040N: 中兴远航 30 Pro
+中兴远航 30 Pro+:
+ZTE 9041N: 中兴远航 30 Pro+
+中兴畅行 30:
+ZTE 1010L: 中兴畅行 30
+中兴远航 40 Pro+:
+ZTE 9042N: 中兴远航 40 Pro+
+中兴远航 41:
+ZTE 7541N: 中兴远航 41
+中兴 V70 Pro:
+ZTE 9043N: 中兴 V70 Pro

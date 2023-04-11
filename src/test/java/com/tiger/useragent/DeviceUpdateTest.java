@@ -77,6 +77,11 @@ public class DeviceUpdateTest {
         XiaomiEn("xiaomi_en.md", "Xiaomi"),
         Zhixuan("zhixuan.md", "Huawei"),
         ZTE("zte.md", "ZTE"),
+        ASUS("asus.md", "Asus"),
+        BlackShark("blackshark.md", "BlackShark"),
+        BlackSharkEn("blackshark_en.md", "BlackShark"),
+        SonyCn("sony_cn.md", "Sony"),
+        Coolpad("coolpad.md", "Coolpad")
         ;
 
         private final String fileName;

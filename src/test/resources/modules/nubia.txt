@@ -57,6 +57,12 @@ nubia Z30 Pro:
 NX667J: nubia Z30 Pro
 nubia Z40 Pro:
 NX701J: nubia Z40 Pro
+nubia Z40S Pro:
+NX702J: nubia Z40S Pro
+nubia Z50:
+NX711J: nubia Z50
+nubia Z50 Ultra:
+NX712J: nubia Z50 Ultra
 红魔手机
 红魔电竞游戏手机:
 NX609J: 红魔电竞游戏手机
@@ -82,6 +88,14 @@ NX669J-S: 腾讯红魔游戏手机 6S Pro
 NX679J: 红魔 7
 红魔 7 Pro:
 NX709J: 红魔 7 Pro
+红魔 7S:
+NX679S: 红魔 7S
+红魔 7S Pro:
+NX709S: 红魔 7S Pro
+红魔 8 Pro:
+NX729J: 红魔 8 Pro
+红魔 8 Pro+:
+NX729J: 红魔 8 Pro+
 其他系列
 nubia X6:
 NX601J: nubia X6

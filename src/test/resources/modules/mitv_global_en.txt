@@ -26,9 +26,19 @@ Mi TV 5X:
 L43M6-ES: Mi TV 5X 43
 L50M6-ES: Mi TV 5X 50
 L55M6-ES: Mi TV 5X 55
+Xiaomi Smart TV 5A:
+L32M7-5AIN: Xiaomi Smart TV 5A 32
+L40M7-EAIN: Xiaomi Smart TV 5A 40
+L43M7-EAIN: Xiaomi Smart TV 5A 43
+Xiaomi Smart TV X Series:
+L43M7-A2IN: Xiaomi Smart TV X43
+L50M7-A2IN: Xiaomi Smart TV X50
+L55M7-A2IN: Xiaomi Smart TV X55
 Mi QLED TV:
 L55M6-EQG: Mi QLED TV Q1 4K 55
 L75M6-ESG: Mi QLED TV Q1 75
+Xiaomi OLED Vision TV:
+O55M7-Z2IN: Xiaomi OLED Vision 55
 Redmi Smart TV:
 L32M6-RA: Redmi Smart TV 32
 L43M6-RA: Redmi Smart TV 43
@@ -36,6 +46,8 @@ L43R7-7AIN: Redmi Smart TV X43
 L50M6-RA: Redmi Smart TV X50
 L55M6-RA: Redmi Smart TV X55
 L65M6-RA: Redmi Smart TV X65
+Redmi Smart Fire TV:
+L32R8-FVIN: Redmi Smart Fire TV 32
 Mi Box:
 MDZ-22-AB: Mi Box 4K
 Global Products
@@ -73,9 +85,39 @@ Mi TV Q1:
 L75M6-ESG: Mi TV Q1 75
 Xiaomi TV Q1E:
 L55M6-ESG: Xiaomi TV Q1E 55
+Xiaomi TV Q2 (EEA):
+L50M7-Q2EU: Xiaomi TV Q2 50
+L55M7-Q2EU: Xiaomi TV Q2 55
+L65M7-Q2EU: Xiaomi TV Q2 65
+Xiaomi TV A2 (EEA):
+L32M7-EAEU: Xiaomi TV A2 32
+L43M7-EAEU: Xiaomi TV A2 43
+L50M7-EAEU: Xiaomi TV A2 50
+L55M7-EAEU: Xiaomi TV A2 55
+L58M7-EAEU: Xiaomi TV A2 58
+Xiaomi TV A2 (Southeast Asia):
+L43M7-ESEA: Xiaomi TV A2 FHD 43
+L58M7-EASEA: Xiaomi TV A2 58
+Xiaomi TV A2 (Indonesia):
+L32M7-EAID: Xiaomi TV A2 32
+L43M7-EAID: Xiaomi TV A2 UHD 43
+L55M7-EAID: Xiaomi TV A2 55
+Xiaomi TV A2 (Vietnam):
+L32M7-EAVN: Xiaomi TV A2 32
+L43M7-ETH: Xiaomi TV A2 FHD 43
+Xiaomi TV A2 (Bangladesh):
+L32M7-EAUKR: Xiaomi TV A2 32
+L43M7-EAUKR: Xiaomi TV A2 UHD 43
+L55M7-EAUKR: Xiaomi TV A2 55
+Xiaomi Fire TV F2:
+L43M7-FVEU: Xiaomi Fire TV F2 43
+L50M7-FVEU: Xiaomi Fire TV F2 50
+L55M7-FVEU: Xiaomi Fire TV F2 55
 Mi Box:
 MDZ-16-AA MDZ-16-AB: Mi Box
 MDZ-22-AB: Mi Box S
+Xiaomi TV Box:
+MDZ-28-AA: Xiaomi TV Box
 Mi TV Stick:
 MDZ-24-AA MDZ-24-AB: Mi TV Stick
 Xiaomi TV Stick:

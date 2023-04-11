@@ -12,8 +12,10 @@ Pixel 2 XL (taimen):
 G011C: Pixel 2 XL
 Pixel 3 (blueline):
 G013A: Pixel 3
+G013B: Pixel 3 (Japan)
 Pixel 3 XL (crosshatch):
 G013C: Pixel 3 XL
+G013D: Pixel 3 XL (Japan)
 Pixel 3a (sargo):
 G020E: Pixel 3a (Verizon)
 G020F: Pixel 3a (UK, Europe, and APAC)
@@ -55,6 +57,19 @@ GR1YH: Pixel 6 (Japan)
 Pixel 6 Pro (raven):
 G8VOU: Pixel 6 Pro (US, AU) (mmWave)
 GLUOG: Pixel 6 Pro (Rest of the world)
-GR1YH: Pixel 6 Pro (Japan)
+GF5KQ: Pixel 6 Pro (Japan)
+Pixel 6a (bluejay):
+GB62Z: Pixel 6a (US, mmWave)
+GX7AS: Pixel 6a (North America, TW)
+G1AZG: Pixel 6a (Rest of the world)
+GB17L: Pixel 6a (Japan)
+Pixel 7 (panther):
+GQML3: Pixel 7 (US, mmWave)
+GVU6C: Pixel 7 (Rest of the world)
+G03Z5: Pixel 7 (Japan)
+Pixel 7 Pro (cheetah):
+GE2AE: Pixel 7 Pro (US, AU) (mmWave)
+GP4BC: Pixel 7 Pro (Rest of the world)
+GFE4J: Pixel 7 Pro (Japan)
 Pixel C (dragon):
 C1502W: Pixel C
