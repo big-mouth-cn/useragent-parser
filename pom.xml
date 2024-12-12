@@ -8,10 +8,29 @@
     <packaging>jar</packaging>
 
     <name>useragent-parser</name>
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/big-mouth-cn/useragent-parser</url>
+    <licenses>
+        <license>
+            <name>The MIT License</name>
+            <url>https://www.mit.edu/~amini/LICENSE.md</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <id>big-mouth-cn</id>
+            <name>Allen Hu</name>
+        </developer>
+    </developers>
+    <scm>
+        <connection>scm:git:https://github.com/big-mouth-cn/useragent-parser.git</connection>
+        <developerConnection>scm:git:https://github.com/big-mouth-cn/useragent-parser.git</developerConnection>
+        <url>https://github.com/big-mouth-cn/useragent-parser</url>
+    </scm>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <avro.version>1.7.6-cdh5.8.2</avro.version>
+        <avro.version>1.7.6</avro.version>
     </properties>
 
     <dependencies>
@@ -109,18 +128,37 @@
                     </includes>
                 </configuration>
             </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-gpg-plugin</artifactId>
+                <version>1.5</version>
+                <configuration>
+                    <executable>/usr/local/bin/gpg</executable>
+                    <keyname>Allen Hu</keyname>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>sign-artifacts</id>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>sign</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+            <!--   central发布插件    -->
+            <plugin>
+                <groupId>org.sonatype.central</groupId>
+                <artifactId>central-publishing-maven-plugin</artifactId>
+                <version>0.4.0</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <publishingServerId>allen-hu</publishingServerId> <!-- 需要与settings.xml的server.id一致 -->
+                    <tokenAuth>true</tokenAuth>
+                    <autoPublish>false</autoPublish>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
-    <distributionManagement>
-        <repository>
-            <id>nexus-releases</id>
-            <name>nexus-releases</name>
-            <url>http://maven.bxmdev.com/nexus/content/repositories/releases/</url>
-        </repository>
-        <snapshotRepository>
-            <id>nexus-snapshots</id>
-            <name>nexus-snapshots</name>
-            <url>http://maven.bxmdev.com/nexus/content/repositories/snapshots/</url>
-        </snapshotRepository>
-    </distributionManagement>
 </project>
