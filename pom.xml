@@ -2,9 +2,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.tiger.useragent</groupId>
+    <groupId>io.github.bigmouthcn</groupId>
     <artifactId>useragent-parser</artifactId>
-    <version>1.0.9.20241212</version>
+    <version>20241212</version>
     <packaging>jar</packaging>
 
     <name>useragent-parser</name>
@@ -39,6 +39,12 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.13.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.11.0</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
