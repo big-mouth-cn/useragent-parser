@@ -1,8 +1,7 @@
 # useragent-parser
+这是一个 UserAgent 解析器的库，用于解析浏览器、操作系统、设备和 .net 版本等信息。此版本的解析器包含许多具有中国特征的特殊用户代理。
 
-项目基于 [useragent-parser](https://github.com/zhaolihe/useragent-parser) 二次开发，主要为了持续更新设备信息。
-
-UserAgent 解析器的库，用于解析浏览器、操作系统、设备和 .net 版本等信息。此版本的解析器包含许多具有中国特征的特殊用户代理。
+> 项目基于 [useragent-parser](https://github.com/zhaolihe/useragent-parser) 二次开发，主要为了持续更新设备信息。
 
 ## 特性
 - 支持从[MobileModels](https://github.com/KHwang9883/MobileModels)中获取最新的手机品牌型号汇总，更新到解析库中。
