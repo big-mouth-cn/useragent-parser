@@ -20,7 +20,7 @@ import java.util.Map;
  *
  * <p>使用说明：</p>
  * <ul>
- *     <li>首先克隆 Git （https://gitee.com/mirrors_KHwang9883/MobileModels）到本地，已克隆的更新到最新版本；</li>
+ *     <li>首先克隆 Git （https://github.com/KHwang9883/MobileModels）到本地，已克隆的更新到最新版本；</li>
  *     <li>修改 {@link #brands} 为克隆后项目的 /brands 目录；</li>
  *     <li>执行 {@link #main(String[])} 方法；</li>
  *     <li>将生成的文件 src/test/resources/{yyyyMMdd}_DeviceDictionary_Auto.txt 复制到 src/main/resources/DeviceDictionary_Auto.txt；</li>
@@ -81,7 +81,12 @@ public class DeviceUpdateTest {
         BlackShark("blackshark.md", "BlackShark"),
         BlackSharkEn("blackshark_en.md", "BlackShark"),
         SonyCn("sony_cn.md", "Sony"),
-        Coolpad("coolpad.md", "Coolpad")
+        Coolpad("coolpad.md", "Coolpad"),
+        VivoCn("vivo_cn.md", "Vivo"),
+        VivoGlobalEn("vivo_global_en.md", "Vivo"),
+        XiaomiWear("xiaomi-wear.md", "Xiaomi"),
+        Google("google.md", "Google"),
+        Nothing("nothing.md", "Nothing")
         ;
 
         private final String fileName;

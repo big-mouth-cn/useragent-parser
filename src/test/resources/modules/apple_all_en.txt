@@ -192,6 +192,46 @@ A2893: iPhone 14 Pro Max (Canada, Japan, Mexico, Saudi Arabia)
 A2895: iPhone 14 Pro Max (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)
 A2896: iPhone 14 Pro Max (China mainland, Hong Kong, Macao)
 A2894: iPhone 14 Pro Max (Rest of the world)
+[D37AP] iPhone 15 (iPhone15,4):
+A2846: iPhone 15 (United States)
+A3089: iPhone 15 (Canada, Japan, Mexico, Saudi Arabia)
+A3092: iPhone 15 (China mainland, Hong Kong, Macao)
+A3090: iPhone 15 (Rest of the world)
+[D38AP] iPhone 15 Plus (iPhone15,5):
+A2847: iPhone 15 Plus (United States)
+A3093: iPhone 15 Plus (Canada, Japan, Mexico, Saudi Arabia)
+A3096: iPhone 15 Plus (China mainland, Hong Kong, Macao)
+A3094: iPhone 15 Plus (Rest of the world)
+[D83AP] iPhone 15 Pro (iPhone16,1):
+A2848: iPhone 15 Pro (United States)
+A3101: iPhone 15 Pro (Canada, Japan, Mexico, Saudi Arabia)
+A3104: iPhone 15 Pro (China mainland, Hong Kong, Macao)
+A3102: iPhone 15 Pro (Rest of the world)
+[D84AP] iPhone 15 Pro Max (iPhone16,2):
+A2849: iPhone 15 Pro Max (United States)
+A3105: iPhone 15 Pro Max (Canada, Japan, Mexico, Saudi Arabia)
+A3108: iPhone 15 Pro Max (China mainland, Hong Kong, Macao)
+A3106: iPhone 15 Pro Max (Rest of the world)
+[D47AP] iPhone 16 (iPhone17,3):
+A3081: iPhone 16 (United States)
+A3286: iPhone 16 (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+A3288: iPhone 16 (China mainland, Hong Kong, Macao)
+A3287: iPhone 16 (Rest of the world)
+[D48AP] iPhone 16 Plus (iPhone17,4):
+A3082: iPhone 16 Plus (United States)
+A3289: iPhone 16 Plus (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+A3291: iPhone 16 Plus (China mainland, Hong Kong, Macao)
+A3290: iPhone 16 Plus (Rest of the world)
+[D93AP] iPhone 16 Pro (iPhone17,1):
+A3083: iPhone 16 Pro (United States)
+A3292: iPhone 16 Pro (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+A3294: iPhone 16 Pro (China mainland, Hong Kong, Macao)
+A3293: iPhone 16 Pro (Rest of the world)
+[D94AP] iPhone 16 Pro Max (iPhone17,2):
+A3084: iPhone 16 Pro Max (United States)
+A3295: iPhone 16 Pro Max (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)
+A3297: iPhone 16 Pro Max (China mainland, Hong Kong, Macao)
+A3296: iPhone 16 Pro Max (Rest of the world)
 iPad
 [K48AP] iPad (iPad1,1):
 A1219: iPad Wi-Fi
@@ -244,6 +284,7 @@ A2696: iPad (10th generation) Wi-Fi
 [J272AP] iPad (10th generation) (iPad13,19):
 A2757: iPad (10th generation) Wi-Fi + Cellular
 A2777: iPad (10th generation) Wi-Fi + Cellular (China mainland)
+A3162: iPad (10th generation) Wi-Fi + Cellular (eSIM, China mainland)
 iPad Air
 [J71AP] iPad Air (iPad4,1):
 A1474: iPad Air Wi-Fi
@@ -270,6 +311,16 @@ A2588: iPad Air (5th generation) Wi-Fi
 [J408AP] iPad Air (5th generation) (iPad13,17):
 A2589: iPad Air (5th generation) Wi-Fi + Cellular
 A2591: iPad Air (5th generation) Wi-Fi + Cellular (China mainland)
+[J507AP] iPad Air (11-inch, M2) (iPad14,8):
+A2902: iPad Air (11-inch, M2) Wi-Fi
+[J508AP] iPad Air (11-inch, M2) (iPad14,9):
+A2903: iPad Air (11-inch, M2) Wi-Fi + Cellular
+A2904: iPad Air (11-inch, M2) Wi-Fi + Cellular (China mainland)
+[J537AP] iPad Air (13-inch, M2) (iPad14,10):
+A2898: iPad Air (13-inch, M2) Wi-Fi
+[J538AP] iPad Air (13-inch, M2) (iPad14,11):
+A2899: iPad Air (13-inch, M2) Wi-Fi + Cellular
+A2900: iPad Air (13-inch, M2) Wi-Fi + Cellular (China mainland)
 iPad Pro
 [J98aAP] iPad Pro (12.9-inch) (iPad6,7):
 A1584: iPad Pro (12.9-inch) Wi-Fi
@@ -356,6 +407,16 @@ A2436: iPad Pro (12.9-inch, 6th generation) Wi-Fi
 A2437: iPad Pro (12.9-inch, 6th generation) Wi-Fi + Cellular
 A2764: iPad Pro (12.9-inch, 6th generation) Wi-Fi + Cellular (mmWave)
 A2766: iPad Pro (12.9-inch, 6th generation) Wi-Fi + Cellular (China mainland)
+[J717AP] iPad Pro (11-inch, M4) (iPad16,3):
+A2836: iPad Pro (11-inch, M4) Wi-Fi
+[J718AP] iPad Pro (11-inch, M4) (iPad16,4):
+A2837: iPad Pro (11-inch, M4) Wi-Fi + Cellular
+A3006: iPad Pro (11-inch, M4) Wi-Fi + Cellular (China mainland)
+[J720AP] iPad Pro (13-inch, M4) (iPad16,5):
+A2925: iPad Pro (13-inch, M4) Wi-Fi
+[J721AP] iPad Pro (13-inch, M4) (iPad16,6):
+A2926: iPad Pro (13-inch, M4) Wi-Fi + Cellular
+A3007: iPad Pro (13-inch, M4) Wi-Fi + Cellular (China mainland)
 iPad mini
 [P105AP] iPad mini (iPad2,5):
 A1432: iPad mini Wi-Fi
@@ -389,6 +450,11 @@ A2567: iPad mini (6th generation) Wi-Fi
 [J311AP] iPad mini (6th generation) (iPad14,2):
 A2568: iPad mini (6th generation) Wi-Fi + Cellular
 A2569: iPad mini (6th generation) Wi-Fi + Cellular (China mainland)
+[J410AP] iPad mini (A17 Pro) (iPad16,1):
+A2993: iPad mini (A17 Pro) Wi-Fi
+[J411AP] iPad mini (A17 Pro) (iPad16,2):
+A2995: iPad mini (A17 Pro) Wi-Fi + Cellular
+A2996: iPad mini (A17 Pro) Wi-Fi + Cellular (China mainland)
 Apple Watch
 [N27aAP] Apple Watch (1st generation) (Watch1,1):
 A1553: Apple Watch (1st generation, 38mm case)
@@ -494,6 +560,52 @@ A2775: Apple Watch Series 8 (GPS + Cellular) (45mm case) (Rest of the world)
 A2622: Apple Watch Ultra (North America)
 A2859: Apple Watch Ultra (China mainland, Hong Kong, Macao)
 A2684: Apple Watch Ultra (Rest of the world)
+[N207sAP] Apple Watch Series 9 (Watch7,1):
+A2978: Apple Watch Series 9 (GPS) (41mm case)
+[N207bAP] Apple Watch Series 9 (Watch7,2):
+A2980: Apple Watch Series 9 (GPS) (45mm case)
+[N208sAP] Apple Watch Series 9 (Watch7,3):
+A2982: Apple Watch Series 9 (GPS + Cellular) (41mm case) (Global)
+A2983: Apple Watch Series 9 (GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)
+[N208bAP] Apple Watch Series 9 (Watch7,4):
+A2984: Apple Watch Series 9 (GPS + Cellular) (45mm case) (Global)
+A2985: Apple Watch Series 9 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)
+[N210AP] Apple Watch Ultra 2 (Watch7,5):
+A2986: Apple Watch Ultra 2 (Global)
+A2987: Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)
+[N217sAP] Apple Watch Series 10 (Watch7,8):
+A2997: Apple Watch Series 10 (GPS) (42mm case) (Global)
+A2998: Apple Watch Series 10 (GPS) (42mm case) (China mainland, Indonesia)
+[N217bAP] Apple Watch Series 10 (Watch7,9):
+A2999: Apple Watch Series 10 (GPS) (46mm case) (Global)
+A3000: Apple Watch Series 10 (GPS) (46mm case) (China mainland, Indonesia)
+[N218sAP] Apple Watch Series 10 (Watch7,10):
+A3001: Apple Watch Series 10 (GPS + Cellular) (42mm case) (Global)
+A3002: Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland, Indonesia)
+[N218bAP] Apple Watch Series 10 (Watch7,11):
+A3003: Apple Watch Series 10 (GPS + Cellular) (46mm case) (Global)
+A3206: Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland, Indonesia)
+Apple TV
+Apple TV (1st generation) (AppleTV1,1):
+A1218: Apple TV (1st generation)
+[K66AP] Apple TV (2nd generation) (AppleTV2,1):
+A1378: Apple TV (2nd generation)
+[J33AP] Apple TV (3rd generation) (AppleTV3,1):
+A1427: Apple TV (3rd generation)
+[J33IAP] Apple TV (3rd generation) (AppleTV3,2):
+A1469: Apple TV (3rd generation) (Rev A)
+[J42dAP] Apple TV HD (AppleTV5,3):
+A1625: Apple TV HD
+[J105aAP] Apple TV 4K (AppleTV6,2):
+A1842: Apple TV 4K
+[J305AP] Apple TV 4K (2nd generation) (AppleTV11,1):
+A2169: Apple TV 4K (2nd generation)
+[J255AP] Apple TV 4K (3rd generation) (AppleTV14,1):
+A2737: Apple TV 4K (3rd generation) Wi-Fi
+A2843: Apple TV 4K (3rd generation) Wi-Fi + Ethernet
+Apple Vision
+[N301AP] Apple Vision Pro (RealityDevice14,1):
+A2117: Apple Vision Pro
 iPod touch
 [N45AP] iPod touch (1st generation) (iPod1,1):
 A1213: iPod touch (1st generation)

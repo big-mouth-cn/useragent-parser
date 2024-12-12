@@ -1,5 +1,5 @@
 努比亚手机型号汇总
-Z 系列
+努比亚 Z 系列
 nubia Z5:
 NX501: nubia Z5
 nubia Z5 mini:
@@ -59,10 +59,89 @@ nubia Z40 Pro:
 NX701J: nubia Z40 Pro
 nubia Z40S Pro:
 NX702J: nubia Z40S Pro
-nubia Z50:
-NX711J: nubia Z50
+nubia Z50 / nubia Z50S:
+NX711J: nubia Z50 / nubia Z50S
 nubia Z50 Ultra:
 NX712J: nubia Z50 Ultra
+nubia Z50S Pro:
+NX713J: nubia Z50S Pro
+nubia Z50 SE:
+NX715J: nubia Z50 SE
+nubia Z60 Ultra / nubia Z60 Ultra 领先版:
+NX721J: nubia Z60 Ultra / nubia Z60 Ultra 领先版
+nubia Z60S Pro:
+NX725J: nubia Z60S Pro
+nubia Z70 Ultra:
+NX733J: nubia Z70 Ultra
+NX736J: nubia Z70 Ultra 星空典藏版 (卫星通信)
+努比亚其他系列
+nubia X6:
+NX601J: nubia X6
+nubia X:
+NX616J: nubia X
+nubia V18:
+NX612J: nubia V18
+nubia Play:
+NX651J: nubia Play
+nubia Flip:
+NX724J: nubia Flip 5G / nubia Flip 5G S
+nubia 小牛:
+NX302J: nubia 小牛
+nubia My 布拉格:
+NX513J: nubia My 布拉格 全网通版
+NX513H: nubia My 布拉格 双 4G 版
+nubia M2:
+NX551J: nubia M2
+nubia M2 青春版:
+NX573J: nubia M2 青春版
+nubia M2 畅玩版:
+NX907J: nubia M2 畅玩版
+nubia N1:
+NX541J: nubia N1
+nubia N2:
+NX575J: nubia N2
+nubia N3:
+NX608J NX617J: nubia N3
+nubia N5:
+NX301J: nubia N5
+努比亚海外型号
+nubia Neo:
+nubia 8150N: nubia Neo 5G
+nubia Neo 2:
+Z2352N: nubia Neo 2 5G
+nubia Neo 3:
+Z2461: nubia Neo 3
+nubia Neo 3 GT:
+Z2465N: nubia Neo 3 GT 5G
+nubia Music:
+Z2353: nubia Music
+nubia Music 2:
+Z2460: nubia Music 2
+nubia Focus:
+Z2455: nubia Focus
+nubia Focus 2:
+Z2462N: nubia Focus 2 5G
+nubia Focus 2 Ultra:
+Z2463N: nubia Focus 2 Ultra 5G
+nubia A75:
+Z6255CA: nubia A75
+nubia V50 Vita:
+nubia 8550: nubia V50 Vita
+nubia V60:
+Z2356: nubia V60
+nubia V60 Design:
+Z2350: nubia V60 Design
+nubia V70:
+Z2459: nubia V70
+nubia V70 Design:
+Z2458: nubia V70 Design
+nubia V70 Max:
+Z2467: nubia V70 Max
+努比亚平板
+nubia Pad 3D:
+LPD-20W: nubia Pad 3D
+nubia Pad 3D II:
+NP02J: nubia Pad 3D II
 红魔手机
 红魔电竞游戏手机:
 NX609J: 红魔电竞游戏手机
@@ -92,31 +171,20 @@ NX709J: 红魔 7 Pro
 NX679S: 红魔 7S
 红魔 7S Pro:
 NX709S: 红魔 7S Pro
-红魔 8 Pro:
-NX729J: 红魔 8 Pro
-红魔 8 Pro+:
-NX729J: 红魔 8 Pro+
-其他系列
-nubia X6:
-NX601J: nubia X6
-nubia X:
-NX616J: nubia X
-nubia V18:
-NX612J: nubia V18
-nubia Play:
-NX651J: nubia Play
-nubia My 布拉格:
-NX513J: nubia My 布拉格 全网通版
-NX513H: nubia My 布拉格 双 4G 版
-nubia M2:
-NX551J: nubia M2
-nubia M2 青春版:
-NX573J: nubia M2 青春版
-nubia M2 畅玩版:
-NX907J: nubia M2 畅玩版
-nubia N1:
-NX541J: nubia N1
-nubia N2:
-NX575J: nubia N2
-nubia N3:
-NX608J NX617J: nubia N3
+红魔 8 Pro / 红魔 8 Pro+:
+NX729J: 红魔 8 Pro / 红魔 8 Pro+
+红魔 8S Pro / 红魔 8S Pro+:
+NX729S: 红魔 8S Pro / 红魔 8S Pro+
+红魔 9 Pro / 红魔 9 Pro+:
+NX769J: 红魔 9 Pro / 红魔 9 Pro+
+红魔 9S Pro / 红魔 9S Pro+:
+NX769J: 红魔 9S Pro / 红魔 9S Pro+
+红魔 10 Pro / 红魔 10 Pro+:
+NX789J: 红魔 10 Pro / 红魔 10 Pro+
+红魔平板
+红魔电竞平板:
+NP01J: 红魔电竞平板 5G
+红魔电竞平板 Pro:
+NP03J: 红魔电竞平板 Pro
+红魔平板 · 3D 探索版:
+NP02J: 红魔平板 · 3D 探索版 5G

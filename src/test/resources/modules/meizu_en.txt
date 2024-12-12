@@ -78,7 +78,7 @@ MEIZU 16th (m1882):
 M882H: MEIZU 16th Global
 M882Q: MEIZU 16th China
 MEIZU 16th Plus (m1892):
-M892Q: MEIZU 16th Plus China
+M892Q: MEIZU 16th Plus
 MEIZU 16 (m1872):
 M872H: MEIZU 16 Global
 M872Q: MEIZU 16 X China
@@ -89,9 +89,9 @@ MEIZU 16Xs (m1926):
 M926H: MEIZU 16Xs Global
 M926Q: MEIZU 16Xs China
 MEIZU 16s Pro (m1973):
-M973Q: MEIZU 16s Pro China
+M973Q: MEIZU 16s Pro
 MEIZU 16T (m1928):
-M928Q: MEIZU 16T China
+M928Q: MEIZU 16T
 MEIZU 17 (m2081):
 M081Q: MEIZU 17 China
 M081M: MEIZU 17 Carrier version
@@ -108,12 +108,22 @@ MEIZU 18s (m2182):
 M182Q: MEIZU 18s
 MEIZU 18s Pro (m2192):
 M192Q: MEIZU 18s Pro
-MEIZU 20 (m2381):
-M381Q: MEIZU 20
+MEIZU 20 / MEIZU 20 Classic (m2381):
+M381Q: MEIZU 20 / MEIZU 20 Classic
 MEIZU 20 PRO (m2391):
 M391Q: MEIZU 20 PRO
 MEIZU 20 INFINITY (m2392):
 M392Q: MEIZU 20 INFINITY
+MEIZU 21 (m2461):
+M461Q: MEIZU 21 China
+M461H: MEIZU 21 Global
+MEIZU 21 PRO (m2481):
+M481Q: MEIZU 21 PRO
+MEIZU 21 Note (m2468):
+M468Q: MEIZU 21 Note China
+M468H: MEIZU 21 Note Global
+MEIZU Lucky 08 (m2431):
+M431Q: MEIZU Lucky 08
 MEIZU m1 note (m71):
 M463H: MEIZU m1 note Global
 M463M: MEIZU m1 note China Mobile
@@ -146,6 +156,10 @@ M822Q: MEIZU Note 8 China
 MEIZU Note 9 (m1923):
 M923H: MEIZU Note 9 Global
 M923Q: MEIZU Note 9 China
+MEIZU Note 21 (m2411):
+M411H M411L: MEIZU Note 21 Global
+MEIZU Note 21 Pro (m2412):
+M412H: MEIZU Note 21 Pro Global
 MEIZU M3E (a02):
 A680H: MEIZU M3E Global
 A680Q: MEIZU M1 E China
@@ -219,10 +233,14 @@ MEIZU M8c (m1810):
 M810H: MEIZU M8c Global
 MEIZU M10 (m1918):
 M918H: MEIZU M10 Global
-mblu 10 (m2110):
-M2110: mblu 10
+mblu 10 (m2112):
+M2112: mblu 10
 mblu 10s (m2111):
 M2111: mblu 10s
+MEIZU M20 / MEIZU mblu 20 (m2421):
+M421Q: MEIZU M20 / MEIZU mblu 20
+MEIZU MBLU 21 (m2416):
+M416L: MEIZU MBLU 21 Global
 MEIZU M3 Max (s25):
 S685H: MEIZU M3 Max Global
 S685Q: MEIZU M3 Max China
@@ -247,3 +265,14 @@ MEIZU C9 (m1818):
 M818H: MEIZU C9 Global
 MEIZU C9 Pro (m1819):
 M819H: MEIZU C9 Pro Global
+Lync & Co Phones
+Lync & Co Phone Note (m2468l):
+M468Q: Lync & Co Phone Note
+Lync & Co Phone Pro (m2481l):
+M481S: Lync & Co Phone Pro
+Polestar Phones
+Polestar Phone (m2481s):
+M481S: Polestar Phone
+HongQi Phones
+HongQi Wonder (m2481r):
+M481R: HongQi Wonder

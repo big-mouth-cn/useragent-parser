@@ -17,5 +17,12 @@ ASUS_AI2201_B: 腾讯 ROG 游戏手机 6 Pro
 ROG Phone 6D (AI2203):
 ASUS_AI2203_A: 腾讯 ROG 游戏手机 6 天玑版
 ASUS_AI2203_B: 腾讯 ROG 游戏手机 6 天玑至尊版
+ROG Phone 7 (AI2205):
+ASUS_AI2205_A: 腾讯 ROG 游戏手机 7
+ASUS_AI2205_B: 腾讯 ROG 游戏手机 7 Pro
+ROG Phone 8 (AI2401):
+ASUS_AI2401_A: ROG 游戏手机 8 / ROG 游戏手机 8 Pro
+ROG Phone 9 (AI2401):
+ASUSAI2501A: ROG 游戏手机 9 / ROG 游戏手机 9 Pro
 Smartphone for Snapdragon Insiders:
 ASUS_I007D: Smartphone for Snapdragon Insiders
