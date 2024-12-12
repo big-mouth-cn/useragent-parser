@@ -6,6 +6,8 @@ import com.google.common.collect.Maps;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.tuple.Pair;
+import org.junit.BeforeClass;
+import org.junit.Test;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
@@ -127,6 +129,10 @@ public class DeviceUpdateTest {
             return null;
         }
         return line.replaceAll("`|#|\\*", "").trim();
+    }
+
+    @Test
+    public void test() throws IOException {
     }
 
     public static void main(String[] args) throws IOException {
